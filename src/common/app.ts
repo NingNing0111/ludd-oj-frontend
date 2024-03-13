@@ -7,7 +7,7 @@ export const AboutMe = `
 
 - 博客地址: [https://pgthinker.me](https://pgthinker.me)
 - GitHub主页: [https://github.com/NingNing0111](https://github.com/NingNing0111)
-- 项目地址: []()
+- 项目地址: [https://github.com/NingNing0111/ludd-oj-frontend](https://github.com/NingNing0111/ludd-oj-frontend)
 
 ## 技术介绍
 
